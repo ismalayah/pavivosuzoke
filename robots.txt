@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pavivosuzoke.netlify.app/sitemap.xml
